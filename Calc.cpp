@@ -75,7 +75,7 @@ int division(int a, int b){
 	if (b)
 	cout << "Частное = " << a/b << "\n";
 	else 
-	cout << "На ноль делить нельзя!\n";
+	cout << "[Хуй тебе мудила!]\n";
 	return 0;
 }
 int mod(int a, int b){
